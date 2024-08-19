@@ -1,6 +1,6 @@
 # Waze User Churn Rate Analysis (5/2024 - 8/2024)
 
-![alt text]([http://url/to/img.png](https://github.com/qmck3/waze-app-churn-rate-analysis/blob/main/images/Dashboard.png))
+![alt text](https://github.com/qmck3/waze-app-churn-rate-analysis/blob/main/images/Dashboard.png)
 
 ## Summary of Insights
 - Users who drive very long distances on their driving days are _more_ likely to churn
